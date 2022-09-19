@@ -1,7 +1,7 @@
 ## Hi there! I'm James Oh 👋
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-oh-/)
 
-- 🤖 Engineering Intern at Iterable
+- 🤖 Software Engineer at Iterable
 - 🎓 UC Berkeley and Hack Reactor graduate
 - 📍 Based in Bay Area, CA
 - 😄 Pronouns: he/him/his
